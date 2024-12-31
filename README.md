@@ -11,6 +11,8 @@
 ![Badge](https://img.shields.io/badge/Go-00ADD8?&style=for-the-badge&logo=go&logoColor=white)
 ![Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ## Github Statistics
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=feetbo90&show_icons=true&theme=radical)
